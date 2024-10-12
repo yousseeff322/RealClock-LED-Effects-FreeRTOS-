@@ -97,9 +97,9 @@ Check out my LinkedIn post about this project [here](https://www.linkedin.com/in
 ├── 📁 FreeRTOS/ (FreeRTOS configuration files)
 ├── 📁 Src/ (Source code)
 │    ├── main.c
-│    ├── RTC.c   // Core tasks implementation
+│    ├── RTC.c   
 │    ├── TaskHandlers.c   // Core tasks implementation
-│    └── led_effect.c   // LED control logic
+│    └── led_effect.c   
 ├── 📁 Inc/ (Header files)
 │    ├── main.h
 │    ├── FreeRTOS_config.h
