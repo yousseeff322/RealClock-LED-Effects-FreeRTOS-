@@ -85,6 +85,9 @@ Two **FreeRTOS queues** are used to facilitate communication:
 
 ---
 
+## 📢 LinkedIn Post
+Check out my LinkedIn post about this project [here](https://www.linkedin.com/in/your-linkedin-profile).
+
 ## 💻 Code Structure
 ```plaintext
 📂 RealClock-LED-Effects-FreeRTOS
@@ -104,4 +107,6 @@ Two **FreeRTOS queues** are used to facilitate communication:
 └── README.md
 
 
-  
+  ---
+
+
