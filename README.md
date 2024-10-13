@@ -86,7 +86,7 @@ Two **FreeRTOS queues** are used to facilitate communication:
 ---
 
 ## 📢 LinkedIn Post
-Check out my LinkedIn post about this project [here](https://www.linkedin.com/in/your-linkedin-profile).
+Check out my LinkedIn post about this project [here]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/feed/update/urn:li:activity:7251200021465812993/)).
 
 ## 💻 Code Structure
 ```plaintext
