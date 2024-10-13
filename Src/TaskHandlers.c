@@ -244,6 +244,7 @@ void RTCTaskHandler (void *pv)
 	const char* MsgRTC2 = 	  "\nConfigure Time                  ---->0\n"
 			"\nConfigure Date                  ---->1\n"
 			"\nEnable Reporting                ---->2\n"
+			"\nEXIT               			   ---->3\n"
 			"Enter Your Choice Here :         " ;
 
 
@@ -419,7 +420,6 @@ void RTCTaskHandler (void *pv)
 				/*Start Reporting Timer*/
 				break;
 
-			case Exit_From_RTC:	break;
 					default:
 						/*Invalid Option*/
 						CurrentState = MainMenuState;
